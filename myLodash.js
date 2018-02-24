@@ -275,15 +275,15 @@
 // }
 // console.log(_.isEmpty(false))
 
-function add(a,b){
-    if(typeof a==='number'&& typeof b==='number'){
-        return a+b;
-    }
-    else{
-        console.log('Wrong value')
-    }
-}
-var _={
-    add:add
-}
-console.log(_.add(6,9))
+// function add(a,b){
+//     if(typeof a==='number'&& typeof b==='number'){
+//         return a+b;
+//     }
+//     else{
+//         console.log('Wrong value')
+//     }
+// }
+// var _={
+//     add:add
+// }
+// console.log(_.add(6,9))
